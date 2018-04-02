@@ -1,6 +1,8 @@
 {
     // Personal
     "editor.wordWrap": "on",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
     "files.autoSave": "onFocusChange",
     "workbench.colorTheme": "Monokai",
     "javascript.validate.enable": false,
@@ -36,5 +38,8 @@
     },
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
 }
