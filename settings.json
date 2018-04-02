@@ -1,0 +1,40 @@
+{
+    // Personal
+    "editor.wordWrap": "on",
+    "files.autoSave": "onFocusChange",
+    "workbench.colorTheme": "Monokai",
+    "javascript.validate.enable": false,
+    "flow.useNPMPackagedFlow": true,
+    "workbench.editor.enablePreview": false,
+    "editor.autoClosingBrackets": false,
+    "gitlens.blame.file.annotationType": "gutter",
+    "gitlens.annotations.file.gutter.hover.details": false,
+    "gitlens.annotations.file.hover.heatmap.enabled": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "vue"
+    ],
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true
+}
